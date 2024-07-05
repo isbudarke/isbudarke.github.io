@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://isbudarke.github.io/sitemap
+Sitemap: https://isbudarke.github.io/app/sitemap
+Sitemap: https://isbudarke.github.io/assets/sitemap
+Sitemap: https://isbudarke.github.io/css/sitemap
+Sitemap: https://isbudarke.github.io/includes/sitemap
+Sitemap: https://isbudarke.github.io/item/sitemap
+Sitemap: https://isbudarke.github.io/src/sitemap
